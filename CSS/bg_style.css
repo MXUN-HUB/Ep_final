@@ -98,6 +98,13 @@ footer {
     /* IE 10+, Fx 29+ */
 }
 
+.svg_footer {
+    z-index: -1;
+    position: absolute;
+    overflow-x: hidden;
+    top: 0;
+}
+
 @keyframes bubble {
     0%,
     70% {
